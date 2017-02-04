@@ -20,7 +20,7 @@ Docs for [PyGitHub](http://pygithub.readthedocs.io/en/latest/index.html) and [Gi
 
 
 ## Issue labels explained
-Incase you are interested in using a similar label scheme. Here are the labels we settled on and a short description of each.
+If you are interested in using a similar label scheme. Here are the labels we settled on and a short description of each. See them in GitHub GUI [here](https://github.com/bstarling/gh-issues-template/labels) or [here](https://github.com/Data4Democracy/assemble/issues)
 
 **first-pr:** For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
 
