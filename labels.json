@@ -1,0 +1,19 @@
+
+[
+    {"color": "0e8a16", "name": "beginner-friendly"},
+    {"color": "ee0701", "name": "bug"},
+    {"color": "fef2c0", "name": "data-collection"},
+    {"color": "fbca04", "name": "data-viz"},
+    {"color": "d4c5f9", "name": "documentation"},
+    {"color": "84b6eb", "name": "enhancement"},
+    {"color": "c2e0c6", "name": "first-pr"},
+    {"color": "128A0C", "name": "help wanted"},
+    {"color": "fbca04", "name": "modeling"},
+    {"color": "0052cc", "name": "proposal"},
+    {"color": "f9d0c4", "name": "question"},
+    {"color": "d93f0b", "name": "status-blocked"},
+    {"color": "c2e0c6", "name": "status-dev-ready"},
+    {"color": "c2e0c6", "name": "status-in-progress"},
+    {"color": "e99695", "name": "status-needs-grooming"},
+    {"color": "d4c5f9", "name": "storytelling"}
+]
