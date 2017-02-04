@@ -49,3 +49,48 @@ If you are interested in using a similar label scheme. Here are the labels we se
 **discussion:** Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
 
 **questions:** A question to or from the project maintainers.
+
+
+### Sample Output
+```
+Enter Git Hub username: bstarling
+Password:
+Orginization or personal repo? [O]rg/[P]ersonal p
+Enter Git Hub repo name: gh-issues-template
+{'name': 'beginner-friendly', 'color': '0e8a16'}
+{'name': 'bug', 'color': 'ee0701'}
+{'name': 'data-collection', 'color': 'fef2c0'}
+{'name': 'data-viz', 'color': 'fbca04'}
+{'name': 'documentation', 'color': 'd4c5f9'}
+{'name': 'enhancement', 'color': '84b6eb'}
+{'name': 'first-pr', 'color': 'c2e0c6'}
+{'name': 'help wanted', 'color': '128A0C'}
+{'name': 'modeling', 'color': 'fbca04'}
+{'name': 'proposal', 'color': '0052cc'}
+{'name': 'question', 'color': 'f9d0c4'}
+{'name': 'status-blocked', 'color': 'd93f0b'}
+{'name': 'status-dev-ready', 'color': 'c2e0c6'}
+{'name': 'status-in-progress', 'color': 'c2e0c6'}
+{'name': 'status-needs-grooming', 'color': 'e99695'}
+{'name': 'storytelling', 'color': 'd4c5f9'}
+------------------
+
+Label template loaded. Confirm load? [Y]: y
+Creating label, set NAME = beginner-friendly, COLOR=0e8a16
+bug exists, set COLOR=ee0701
+Creating label, set NAME = data-collection, COLOR=fef2c0
+Creating label, set NAME = data-viz, COLOR=fbca04
+Creating label, set NAME = documentation, COLOR=d4c5f9
+enhancement exists, set COLOR=84b6eb
+Creating label, set NAME = first-pr, COLOR=c2e0c6
+help wanted exists, set COLOR=128A0C
+Creating label, set NAME = modeling, COLOR=fbca04
+Creating label, set NAME = proposal, COLOR=0052cc
+question exists, set COLOR=f9d0c4
+Creating label, set NAME = status-blocked, COLOR=d93f0b
+Creating label, set NAME = status-dev-ready, COLOR=c2e0c6
+Creating label, set NAME = status-in-progress, COLOR=c2e0c6
+Creating label, set NAME = status-needs-grooming, COLOR=e99695
+Creating label, set NAME = storytelling, COLOR=d4c5f9
+Thank you for using my hack, have a nice day!
+```
