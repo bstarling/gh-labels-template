@@ -46,6 +46,8 @@ If you are interested in using a similar label scheme. Here are the labels we se
 
 **storytelling:** Need help crafting a story. Writing assignment.
 
+**enhancement:** expansion of current functionality. New feature request.
+
 **discussion:** Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
 
 **questions:** A question to or from the project maintainers.
