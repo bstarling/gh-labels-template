@@ -15,5 +15,6 @@
     {"color": "c2e0c6", "name": "status-dev-ready"},
     {"color": "c2e0c6", "name": "status-in-progress"},
     {"color": "e99695", "name": "status-needs-grooming"},
-    {"color": "d4c5f9", "name": "storytelling"}
+    {"color": "d4c5f9", "name": "storytelling"},
+    {"color": "fbca04", "name": "analysis"}
 ]

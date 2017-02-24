@@ -19,7 +19,7 @@ def update_labels():
 
     while True:
         # loop until valid org/repository is entered
-        org_repo = input('Orginization or personal repo? [O]rg/[P]ersonal ')
+        org_repo = input('Organization or personal repo? [O]rg/[P]ersonal ')
         if org_repo.lower() not in ['o', 'p']:
             print('Invalid selection --{}--'.format(org_repo))
         elif org_repo.lower() == 'o':

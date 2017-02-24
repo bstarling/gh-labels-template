@@ -40,6 +40,10 @@ If you are interested in using a similar label scheme. Here are the labels we se
 
 **data-viz:** Data visualization task.
 
+**proposal:** Enhancement or research proposal.
+
+**analysis:** Analysis questions, ranging from basic, exploratory questions to more complex questions
+
 **data-collection:** Data collection task.
 
 **modeling:** Data modeling, machine learning task.
@@ -57,24 +61,25 @@ If you are interested in using a similar label scheme. Here are the labels we se
 ```
 Enter Git Hub username: bstarling
 Password:
-Orginization or personal repo? [O]rg/[P]ersonal p
-Enter Git Hub repo name: gh-issues-template
-{'name': 'beginner-friendly', 'color': '0e8a16'}
-{'name': 'bug', 'color': 'ee0701'}
-{'name': 'data-collection', 'color': 'fef2c0'}
-{'name': 'data-viz', 'color': 'fbca04'}
-{'name': 'documentation', 'color': 'd4c5f9'}
-{'name': 'enhancement', 'color': '84b6eb'}
-{'name': 'first-pr', 'color': 'c2e0c6'}
-{'name': 'help wanted', 'color': '128A0C'}
-{'name': 'modeling', 'color': 'fbca04'}
-{'name': 'proposal', 'color': '0052cc'}
-{'name': 'question', 'color': 'f9d0c4'}
-{'name': 'status-blocked', 'color': 'd93f0b'}
-{'name': 'status-dev-ready', 'color': 'c2e0c6'}
-{'name': 'status-in-progress', 'color': 'c2e0c6'}
-{'name': 'status-needs-grooming', 'color': 'e99695'}
-{'name': 'storytelling', 'color': 'd4c5f9'}
+Organization or personal repo? [O]rg/[P]ersonal p
+Enter Git Hub repo name: gh-labels-template
+{'color': '0e8a16', 'name': 'beginner-friendly'}
+{'color': 'ee0701', 'name': 'bug'}
+{'color': 'fef2c0', 'name': 'data-collection'}
+{'color': 'fbca04', 'name': 'data-viz'}
+{'color': 'd4c5f9', 'name': 'documentation'}
+{'color': '84b6eb', 'name': 'enhancement'}
+{'color': 'c2e0c6', 'name': 'first-pr'}
+{'color': '128A0C', 'name': 'help wanted'}
+{'color': 'fbca04', 'name': 'modeling'}
+{'color': '0052cc', 'name': 'proposal'}
+{'color': 'f9d0c4', 'name': 'question'}
+{'color': 'd93f0b', 'name': 'status-blocked'}
+{'color': 'c2e0c6', 'name': 'status-dev-ready'}
+{'color': 'c2e0c6', 'name': 'status-in-progress'}
+{'color': 'e99695', 'name': 'status-needs-grooming'}
+{'color': 'd4c5f9', 'name': 'storytelling'}
+{'color': 'fbca04', 'name': 'analysis'}
 ------------------
 
 Label template loaded. Confirm load? [Y]: y
@@ -94,5 +99,5 @@ Creating label, set NAME = status-dev-ready, COLOR=c2e0c6
 Creating label, set NAME = status-in-progress, COLOR=c2e0c6
 Creating label, set NAME = status-needs-grooming, COLOR=e99695
 Creating label, set NAME = storytelling, COLOR=d4c5f9
-Thank you for using my hack, have a nice day!
+Creating label, set NAME = analysis, COLOR=fbca04
 ```
